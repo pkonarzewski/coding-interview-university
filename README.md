@@ -234,7 +234,7 @@ Fork the GitHub repo https://github.com/jwasham/coding-interview-university by c
 
 - Successful software engineers are smart, but many have an insecurity that they aren't smart enough.
 - [ ] [The myth of the Genius Programmer](https://www.youtube.com/watch?v=0SARbwvhupQ)
-- [x] [It's Dangerous to Go Alone: Battling the Invisible Monsters in Tech](https://www.youtube.com/watch?v=1i8ylq4j_EY) # Syndrom oszusta
+- [x] [It's Dangerous to Go Alone: Battling the Invisible Monsters in Tech](https://www.youtube.com/watch?v=1i8ylq4j_EY) # Syndrom oszusta.
 
 ## About Video Resources
 
@@ -274,26 +274,7 @@ Sometimes the classes are not in session so you have to wait a couple of months,
 
 You can use a language you are comfortable in to do the coding part of the interview, but for large companies, these are solid choices:
 
-- C++
-- Java
-- Python
-
-You could also use these, but read around first. There may be caveats:
-
-- JavaScript
-- Ruby
-
-Here is an article I wrote about choosing a language for the interview: [Pick One Language for the Coding Interview](https://startupnextdoor.com/important-pick-one-language-for-the-coding-interview/).
-
-You need to be very comfortable in the language and be knowledgeable.
-
-Read more about choices:
-- http://www.byte-by-byte.com/choose-the-right-language-for-your-coding-interview/
-- http://blog.codingforinterviews.com/best-programming-language-jobs/
-
-[See language resources here](programming-language-resources.md)
-
-You'll see some C, C++, and Python learning included below, because I'm learning. There are a few books involved, see the bottom.
+- Python (my choice)
 
 ## Book List
 
@@ -319,27 +300,6 @@ Choose one:
     - [Companion Project - Method Stub and Test Cases for Every Problem in the Book](https://github.com/gardncl/elements-of-programming-interviews)
 
 ### Language Specific
-
-**You need to choose a language for the interview (see above).**
-
-Here are my recommendations by language. I don't have resources for all languages. I welcome additions.
-
-If you read through one of these, you should have all the data structures and algorithms knowledge you'll need to start doing coding problems.
-**You can skip all the video lectures in this project**, unless you'd like a review.
-
-[Additional language-specific resources here.](programming-language-resources.md)
-
-### C++
-
-I haven't read these two, but they are highly rated and written by Sedgewick. He's awesome.
-
-- [ ] [Algorithms in C++, Parts 1-4: Fundamentals, Data Structure, Sorting, Searching](https://www.amazon.com/Algorithms-Parts-1-4-Fundamentals-Structure/dp/0201350882/)
-- [ ] [Algorithms in C++ Part 5: Graph Algorithms](https://www.amazon.com/Algorithms-Part-Graph-3rd-Pt-5/dp/0201361183/)
-- [ ] [Open Data Structures in C++](https://opendatastructures.org/ods-cpp.pdf)
-    - Rich and detailed collection of Data Structures and Algorithms
-    - Great for first-timers
-
-If you have a better recommendation for C++, please let me know. Looking for a comprehensive resource.
 
 ### Java
 
@@ -464,13 +424,6 @@ You don't need to memorize the guts of every algorithm.
 Write code on a whiteboard or paper, not a computer. Test with some sample inputs. Then test it out on a computer.
 
 ## Prerequisite Knowledge
-
-- [ ] **Learn C**
-    - C is everywhere. You'll see examples in books, lectures, videos, *everywhere* while you're studying
-    - [ ] [The C Programming Language, Vol 2](https://www.amazon.com/Programming-Language-Brian-W-Kernighan/dp/0131103628)
-        - This is a short book, but it will give you a great handle on the C language and if you practice it a little
-            you'll quickly get proficient. Understanding C helps you understand how programs and memory work
-        - [Answers to questions](https://github.com/lekkas/c-algorithms)
 
 - [ ] **How computers process a program:**
     - [ ] [How CPU executes a program (video)](https://www.youtube.com/watch?v=XM4lGflQFvA)
