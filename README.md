@@ -233,8 +233,8 @@ Fork the GitHub repo https://github.com/jwasham/coding-interview-university by c
 ## Don't feel you aren't smart enough
 
 - Successful software engineers are smart, but many have an insecurity that they aren't smart enough.
-- [ ] [The myth of the Genius Programmer](https://www.youtube.com/watch?v=0SARbwvhupQ)
-- [x] [It's Dangerous to Go Alone: Battling the Invisible Monsters in Tech](https://www.youtube.com/watch?v=1i8ylq4j_EY) # Syndrom oszusta.
+- [x] [The myth of the Genius Programmer](https://www.youtube.com/watch?v=0SARbwvhupQ) -- walcz z ego, popelniaj bledy szybko i nie pracuj w jaskini, lepiej być małą rybą w dużym stawie niż dużą w za małym jeżeli chcesz się rozwijać
+- [x] [It's Dangerous to Go Alone: Battling the Invisible Monsters in Tech](https://www.youtube.com/watch?v=1i8ylq4j_EY) -- Syndrom oszusta.
 
 ## About Video Resources
 
